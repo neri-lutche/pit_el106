@@ -12,7 +12,7 @@ Follow these steps to get the API server running locally.
     Git
 2. Setup
     1. Clone the Repository:
-       git clone https://github.com/your-username/PIT_EL106_Django_Auth.git
+       git clone https://github.com/neri-lutche/pit_el106.git
        cd PIT_EL106_Django_Auth
     2. Create and Activate Virtual Environment (Recommended):
        python -m venv venv
